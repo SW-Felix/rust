@@ -20,3 +20,22 @@ impl Copy for i64 {}
 pub extern "sysv64" fn has_sysv64_abi(a: i64) -> i64 {
     a
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
