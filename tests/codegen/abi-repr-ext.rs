@@ -55,3 +55,7 @@ pub enum Type {
 pub extern "C" fn test() -> Type {
     Type::Type1
 }
+
+
+
+
